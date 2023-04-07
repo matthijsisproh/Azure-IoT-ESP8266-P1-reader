@@ -13,6 +13,9 @@ Smart meter with P1 port and DSMR 5 protocol.
 2x 1K Ohm resistors
 1x BC547 transistor
 
+# Used libraries
+EspSoftwareSerial 6.1.0
+
 # Manual for creating IoT Application
 (soon)
 
